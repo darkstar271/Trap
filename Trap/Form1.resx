@@ -117,26 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="blood_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blood-2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Man_Screams_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Man Screams-1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="pipes2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pipes2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="saw_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\saw-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tank7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tank7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Detective_Eric_ice_smash" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Detective-Eric-ice-smash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Head" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Head.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

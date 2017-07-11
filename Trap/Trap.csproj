@@ -105,5 +105,26 @@
   <ItemGroup>
     <None Include="Resources\Head.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Model-629.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gun+Shot2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cheering 3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Model-629left.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cocking Gun.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dirtyHurry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\punk.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

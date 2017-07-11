@@ -1,16 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+using Trap.Properties;
 
 namespace Trap
 {
+    //this is my saw class, it's where i call methodes from.
+    // and often used stuff
     class Saw
     {
+        //checkeds if you block when fireing the gun, and win
+        public void WinOrLose()
+        {
+            if (UserSpins == Rnd)
 
+            {    
+                MessageBox.Show("you win");
+            }
 
-
+        }
+        //just a sound player and wav file player
+        public void ClickSound()
+        {
+            SoundPlayer snPlayer = new SoundPlayer(Resources.Cocking_Gun);
+            snPlayer.Play();
+        }
+        
         // sets Block to a count of 2
         public int Block { get; set; } = 2;
 
@@ -56,8 +75,7 @@ namespace Trap
         {
             Block = 2;
             UserSpins = 7;
-           
-            
+
         }
 
     }
